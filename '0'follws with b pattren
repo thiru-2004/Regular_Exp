@@ -4,4 +4,5 @@ if re.search('^0+b',txt):
    print("string is accpected")
 else:
    print("string is not accpected")
+#kanna
 
